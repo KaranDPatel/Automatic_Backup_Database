@@ -59,8 +59,11 @@ Copy code
 your-repo-name/
 │
 ├── autobackup.py              # Main script for database backup and email notification
+
 ├── README.md                  # This readme file
+
 └── backup/                    # Directory where MongoDB backup files are stored
+
 
 
 Email Configuration
