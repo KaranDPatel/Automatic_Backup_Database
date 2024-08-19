@@ -22,7 +22,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/your-repo-name.git
+git clone url
 cd your-repo-name
 Install required Python packages:
 
