@@ -56,8 +56,10 @@ File Structure
 bash
 Copy code
 
+
 your-repo-name/
 │
+
 ├── autobackup.py              # Main script for database backup and email notification
 
 ├── README.md                  # This readme file
