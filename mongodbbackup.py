@@ -8,7 +8,7 @@ def backup_db():
     print('in--')
     backup_db_dir=r'D:\POC\Autobackup_database\backup'
     client = pymongo.MongoClient(host="", port=27018, username="", password="")
-    database = client['docsearch_services']
+    database = client['db_services']
     print(database)
     collections = database.list_collection_names()
 
